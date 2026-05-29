@@ -2,6 +2,8 @@
 
 **A short guide to writing a README that makes people want to contribute, not just understand how.**
 
+**Audience:** This guide is for open source maintainers, technical writers, and anyone publishing code they want others to use and contribute to.
+
 Most README advice is about clarity: explain what the project does, show how to install it, list the commands. That matters. But a README does something quieter and more powerful at the same time. It is the front door to a community. Before anyone reads a line of your code, your README has already told them who the project is for, how much care goes into it, and how a newcomer is likely to be treated. This guide is about writing for that second job.
 
 It is meant to be read in one sitting. By the end you should be able to look at any README, including your own, and see both what it explains and what it signals.
@@ -16,7 +18,7 @@ If you only take one idea away: a README is not documentation that happens to be
 
 ## A little history (it explains the conventions)
 
-The README is one of the oldest and most durable conventions in computing, and knowing where it came from explains why it still looks the way it does.
+The README is one of the oldest and most durable conventions in computing, and knowing where it came from explains why it still looks the way it does. This section comes before the principles because understanding the origin of conventions makes their modern use less arbitrary and easier to remember.
 
 The earliest examples we know of date to the mid 1970s. A frequently cited one is a file distributed in 1974 with PDP-10 software through DECUS, the Digital Equipment Computer Users' Society, describing how to run a set of circuit analysis programs. Origins are genuinely debated, and some people trace the habit further back to printed notes shipped alongside punch cards and tape, but the mid 1970s is where the digital trail begins. See the [Wikipedia entry on README](https://en.wikipedia.org/wiki/README) for the citation trail.
 

@@ -9,7 +9,7 @@ You do not need to be an expert in open source to help. A lot of the most valuab
 - **Improve the writing.** Clearer phrasing, a better example, a section that should exist and does not.
 - **Add a good example or counterexample.** A real README that does the welcome well, with a note on why.
 - **Report something confusing.** If a part lost you, that is a bug in the guide. Open an issue and tell us where.
-- **Fix a broken link.** You can find them with `python tools/check_links.py`.
+- **Fix a broken link.** You can find them with `python check_links.py` (requires Python 3.10 or newer).
 
 ## A good first step
 
@@ -19,14 +19,10 @@ Look for an issue labeled `good first issue`. Comment on it to say you are picki
 
 1. Fork the repository and create a branch for your change.
 2. Make the edit. For prose, read it out loud once to check the tone.
-3. Run `python tools/check_links.py` if you touched any links.
+3. Run `python check_links.py` if you touched any links (requires Python 3.10 or newer).
 4. Open a pull request describing what you changed and why. "Why" is enough; it does not need to be long.
 
 We aim to respond to every pull request, even if the answer is not yet. If we ever decline a change, we will explain the reasoning, because how we say no is part of the culture too.
-
-## One house rule on style
-
-This guide is written without em dashes or en dashes of any kind. If a sentence seems to want one, rework the sentence so it does not need a dash. It is a small constraint that keeps the voice consistent.
 
 ## Code of conduct
 
