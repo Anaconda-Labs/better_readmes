@@ -1,0 +1,7 @@
+name: readable-readmes
+channels:
+  - defaults
+dependencies:
+  # The link checker uses only the Python standard library, so no third
+  # party packages are required. Python from the defaults channel is enough.
+  - python=3.13.*
