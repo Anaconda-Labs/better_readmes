@@ -93,3 +93,9 @@ This resource is maintained by Daina Bouquin (`@dbouquin`).
 ## License
 
 [MIT](LICENSE). Free to copy, adapt, and reuse.
+
+Next steps:
+- try it yourself
+
+Further reading
+- see links
