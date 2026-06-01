@@ -1,6 +1,6 @@
 # Readable READMEs
 
-[![Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Anaconda-Labs/better_readmes/main/.github/badges/status.json?0&cacheSeconds=300)](https://github.com/Anaconda-Labs/better_readmes)
+[![Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Anaconda-Labs/better_readmes/main/.github/badges/status.json?1780334316&cacheSeconds=300)](https://github.com/Anaconda-Labs/better_readmes)
 
 
 **A short guide to writing a README that makes people want to contribute, not just understand how.**
